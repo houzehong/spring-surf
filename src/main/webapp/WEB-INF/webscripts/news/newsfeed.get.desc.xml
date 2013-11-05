@@ -1,0 +1,5 @@
+<webscript>
+    <shortname>News Feed</shortname>
+    <description>News Feed</description>
+    <url>/news/feed</url>
+</webscript>

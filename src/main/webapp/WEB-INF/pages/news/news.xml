@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<page> 
+   <id>news</id>
+   <title>news</title>
+   <template-instance>news</template-instance>
+   <authentication>none</authentication>
+   <components>
+        <component>
+            <region-id>center</region-id>
+            <url>/news/feed</url>
+        </component>
+    </components>
+</page>
