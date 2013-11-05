@@ -1,0 +1,7 @@
+// Spring Roo 1.0.2.RELEASE [rev 638] log opened at 2013-11-05 13:45:51
+// [failed] addon install --url http://www.springsurf.org/downloads/1.0.0-RC2/spring-surf-roo-addon-1.0.0-RC2-roo-addon.zip
+addon install --url http://www.springsurf.org/downloads/1.0.0-RC2/spring-surf-roo-addon-1.0.0-RC2-roo-addon.zip
+// Spring Roo 1.0.2.RELEASE [rev 638] log closed at 2013-11-05 13:46:48
+// Spring Roo 1.0.2.RELEASE [rev 638] log opened at 2013-11-05 13:46:50
+project --topLevelPackage com.example.springsurf
+surf install 
